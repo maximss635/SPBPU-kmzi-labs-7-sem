@@ -1,0 +1,10 @@
+python main.py ../in/texts/test1.in ../in/iv/H0_1.in ../out/test1.out
+python main.py ../in/texts/test2.in ../in/iv/H0_2.in ../out/test2.out
+python main.py ../in/texts/test3.in ../in/iv/H0_3.in ../out/test3.out
+python main.py ../in/texts/test4.in ../in/iv/H0_4.in ../out/test4.out
+python main.py ../in/texts/test5.in ../in/iv/H0_5.in ../out/test5.out
+python main.py ../in/texts/test6.in ../in/iv/H0_6.in ../out/test6.out
+python main.py ../in/texts/test7.in ../in/iv/H0_7.in ../out/test7.out
+python main.py ../in/texts/test8.in ../in/iv/H0_8.in ../out/test8.out
+python main.py ../in/texts/test9.in ../in/iv/H0_9.in ../out/test9.out
+python main.py ../in/texts/test10.in ../in/iv/H0_10.in ../out/test10.out
